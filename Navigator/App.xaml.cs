@@ -7,5 +7,6 @@ namespace Navigator
   /// </summary>
   public partial class App : Application
   {
+	// something here
   }
 }
