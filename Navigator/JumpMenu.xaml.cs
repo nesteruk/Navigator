@@ -10,7 +10,7 @@
   using System;
 
   /// <summary>
-  /// Interaction logic for JumpMenu.xaml
+  /// Interaction logic for JumpMenu.xaml :)
   /// </summary>
   public partial class JumpMenu : Window
   {
