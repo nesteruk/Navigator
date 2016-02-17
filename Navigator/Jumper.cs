@@ -7,7 +7,6 @@ using WinJump;
 
 namespace Navigator
 {
-  // Jumps around
   public class Jumper : IDisposable
   {
 
