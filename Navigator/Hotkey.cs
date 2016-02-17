@@ -8,7 +8,7 @@ namespace Navigator
 {
   public class Hotkey : IMessageFilter
   {
-    #region Interop
+    #region Interop again
 
     private const uint WM_HOTKEY = 0x312;
 
