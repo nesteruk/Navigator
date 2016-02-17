@@ -7,8 +7,10 @@ using WinJump;
 
 namespace Navigator
 {
+  // Jumps around
   public class Jumper : IDisposable
   {
+
     private static readonly Lazy<Jumper> instance = new Lazy<Jumper>(() => new Jumper());
 
     private Hotkey hotkey;
